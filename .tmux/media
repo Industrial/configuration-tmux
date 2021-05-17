@@ -1,3 +1,0 @@
-# media
-new-session -s media -n mixer -c $HOME/Documents alsamixer
-new-window           -n music -c $HOME/Music     cmus
